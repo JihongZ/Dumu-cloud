@@ -1,4 +1,5 @@
 # Dumu-cloud （B站弹幕云）
+使用R shiny来可视化B站视频弹幕。支持词云，直方图，折线图和主题分析。
 A R shiny app to visualize the Danmu in Bilibili
 
 # 功能:
